@@ -1,0 +1,142 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "Provider",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Provider_Country",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "SKU",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Developer",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Title",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Version",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Product_Type_Identifier",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Units",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Developer_Proceeds",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Begin_Date",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "End_Date",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Customer_Currency",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Country_Code",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Currency_of_Proceeds",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Apple_Identifier",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Customer_Price",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Promo_Code",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Parent_Identifier",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Subscription",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Period",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Category",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "CMB",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Device",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Supported_Platforms",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Proceeds_Reason",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Preserved_Pricing",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Client",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Order_Type",
+      "type": "STRING"
+    }
+  ]
